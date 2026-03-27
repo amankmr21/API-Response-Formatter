@@ -65,12 +65,3 @@ python main.py --file sample_input.txt
 python main.py --file sample_input.txt --save-output output.json
 ```
 
-## Resume Bullet
-
-Created an AI-based API response formatter using Groq API to standardize and clean inconsistent data structures into structured JSON outputs.
-
-## Interview Positioning
-
-Instead of saying "I made AI tools", present this as:
-
-I experimented with LLM APIs across multiple real-world use cases including text processing, code analysis, and data transformation.
